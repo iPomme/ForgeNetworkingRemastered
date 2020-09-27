@@ -61,7 +61,7 @@ namespace BeardedManStudios.Forge.Networking.UnityEditor
 		/// <summary>
 		/// This is the user generated folder path
 		/// </summary>
-		private const string USER_GENERATED_FOLDER_PATH = "Bearded Man Studios Inc/Generated/UserGenerated";
+		private const string USER_GENERATED_FOLDER_PATH = "scripts/Generated/Forge";
 		/// <summary>
 		/// This is the wizard data stored by the user previously
 		/// </summary>
@@ -86,7 +86,7 @@ namespace BeardedManStudios.Forge.Networking.UnityEditor
 		/// </summary>
 		private Dictionary<object, string> _referenceVariables = new Dictionary<object, string>();
 		/// <summary>
-		/// This is the bitwise 
+		/// This is the bitwise
 		/// </summary>
 		private List<string> _referenceBitWise = new List<string>();
 
